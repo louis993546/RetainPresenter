@@ -24,11 +24,11 @@ dependencies {
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'presenterretainer'
+    bintrayName = 'presenterretainerfork'
 
-    publishedGroupId = 'org.kaerdan.presenterretainer'
-    libraryName = 'PresenterRetainer'
-    artifact = 'presenterretainer'
+    publishedGroupId = 'com.louis993546'
+    libraryName = 'PresenterRetainerFork'
+    artifact = 'presenterretainerfork'
 
     libraryDescription = 'Retain Presenter on rotation with very little overhead'
 
@@ -37,9 +37,9 @@ ext {
 
     libraryVersion = '0.2.2'
 
-    developerId = 'NikitaKozlov'
-    developerName = 'Nikita Kozlov'
-    developerEmail = 'nikita.e.kozlov@gmail.com'
+    developerId = 'LouisTsai'
+    developerName = 'Louis Tsai'
+    developerEmail = 'louis993546@gmail.com'
 
     licenseName = 'The MIT License'
     licenseUrl = 'https://opensource.org/licenses/MIT'
